@@ -1,5 +1,5 @@
 /*
-Finding the most optimal skills to learn (aka it's in high demand and a high paying skill)
+What are the most optimal skills to learn? (aka it's in high demand and a high paying skill)
 */
 
 SELECT 

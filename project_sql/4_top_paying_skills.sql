@@ -1,5 +1,5 @@
 /*
-What are the top paying skills based on salary
+Which skills are associated with higher salaries?
 */
 
 SELECT 

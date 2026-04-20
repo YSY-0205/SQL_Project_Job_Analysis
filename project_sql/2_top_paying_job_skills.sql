@@ -1,5 +1,5 @@
 /*
-What skills are required for the top paying roles
+What skills are required for these top paying jobs?
 */
 
 
