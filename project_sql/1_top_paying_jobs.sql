@@ -1,3 +1,7 @@
+/*
+Identifying the top 10 paying jobs as a Data Analyst
+*/
+
 SELECT 
     job_id,
     job_title,
